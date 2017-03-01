@@ -1,0 +1,3 @@
+[submodule "Pluralsight_BuildingNodeApps"]
+	path = Pluralsight_BuildingNodeApps
+	url = git@github.com:joshuakleveter/Pluralsight_BuildingNodeApps.git
